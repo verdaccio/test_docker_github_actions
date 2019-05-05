@@ -1,3 +1,3 @@
-FROM verdaccio/verdaccio
+FROM node:10.15.3-alpine
 
-LABEL maintainer="Juan"
+LABEL maintainer="Juan2"
