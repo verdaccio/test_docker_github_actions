@@ -18,7 +18,7 @@
     "url": "https://github.com/verdaccio/test_docker_github_actions/issues"
   },
   "devDependencies": {
-    "standard-version": "5.0.2"
+    "standard-version": "8.0.1"
   },
   "homepage": "https://github.com/verdaccio/test_docker_github_actions#readme"
 }
